@@ -1,3 +1,5 @@
+# Compositional_MetaRL
+
 Code for Kumar et al. 2020 "Meta-Learning of Compositional Task Distributions in Humans and Machines"
 
 Contents:
